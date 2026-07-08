@@ -1,0 +1,23 @@
+# Car Garage Billing System
+
+A Car Garage Billing System built with **Python** and **MySQL Workbench** to streamline garage operations. The application helps manage customer and vehicle records, track repair and maintenance services, calculate service charges, and generate invoices. It provides a simple and efficient way to organize garage data while reducing manual paperwork and billing errors.
+
+## Features
+
+* Customer and vehicle management
+* Service and repair records
+* Automatic bill generation
+* Spare parts and service pricing
+* Payment tracking
+* Search, update, and delete records
+* MySQL database integration
+* User-friendly interface
+
+## Technologies Used
+
+* Python
+* MySQL Workbench (MySQL)
+* mysql-connector-python
+
+
+This project is ideal for learning database-driven application development with Python and demonstrates CRUD operations, database connectivity, and billing system implementation.
